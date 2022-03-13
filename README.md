@@ -12,3 +12,5 @@ Supplementary File S7: md2plif.sh
 Supplementary File S8: 2ONC-cac-r2md_analysis.tab  
 Supplementary File S9: all.nobb.plif.xlsx   
 Supplementary File S10: 2ONC-cac-r2md01647.pdb   
+# March 13, 2022
+The research manuscript was submitted this morning. And, the repository released the version 0.0.1. 
